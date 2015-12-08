@@ -2,7 +2,7 @@
 
     <string name="app_name">Screen Slides Demo </string>
     <string name="action_settings">Settings</string>
-    <string name="title_screen_slide">Press Me</string>
+    <string name="title_screen_slide">Hello</string>
     <string name="title_template_step">Step <xliff:g id="step_number">%1$d</xliff:g>: </string>
 
 
