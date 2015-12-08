@@ -1,5 +1,5 @@
-# screenslidesdemo-JeraldLimqueco
-screenslidesdemo-JeraldLimqueco created by Classroom for GitHub
+# screenslidesdemo-rybackpo
+screenslidesdemo-rybackpo created by Classroom for GitHub
 
 
 screen slides
@@ -7,6 +7,7 @@ screen slides
 
 
 #Screenshot:
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-JeraldLimqueco/blob/master/device-2015-11-28-020033.png)
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-JeraldLimqueco/blob/master/device-2015-11-28-020059.png)
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-JeraldLimqueco/blob/master/device-2015-11-28-020130.png)
+![alt tag](https://github.com/rybackpo/ScreenSlideDemo/blob/master/device-2015-12-08-131601.png)
+![alt tag](https://github.com/rybackpo/ScreenSlideDemo/blob/master/device-2015-12-08-131612.png)
+![alt tag](https://github.com/rybackpo/ScreenSlideDemo/blob/master/device-2015-12-08-131618.png)
+![alt tag](https://github.com/rybackpo/ScreenSlideDemo/blob/master/device-2015-12-08-131626.png)
